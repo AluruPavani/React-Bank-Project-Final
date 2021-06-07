@@ -1,0 +1,478 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ChandraKala",
+      "username": "Kala",
+      "email": "kala@gmail.com",
+      "password": "Chandu@123",
+      "role": "Admin",
+      "website": "anastasia.net",
+      "accno": 78906544322,
+      "phone": 8500318212,
+      "AadharNo": "948062545376",
+      "transaction": [],
+      "address": {
+        "doorNo": "10-1-529/A",
+        "street": "surendraNagar",
+        "city": "Trivendrum",
+        "state": "Kerala",
+        "pincode": 516227
+      },
+      "balance": 10000,
+      "currentBalance": 15500,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Venkateswarlu",
+      "email": "venky@gmail.com",
+      "password": "Venky@456",
+      "role": "Admin",
+      "accno": 78706548723,
+      "phone": 9391881737,
+      "AadharNo": "135425453726",
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-12T09:48:23.685Z",
+          "amount": "7000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-12T09:48:44.724Z",
+          "amount": "500"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-12T09:49:25.125Z",
+          "amount": "3000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-12T09:49:34.321Z",
+          "amount": "1000"
+        }
+      ],
+      "address": {
+        "doorNo": "10-2-526",
+        "street": "sumitraNagar",
+        "city": "Panaji",
+        "state": "Goa",
+        "pincode": 516298
+      },
+      "balance": 17000,
+      "currentBalance": 16500,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Tejaswini",
+      "email": "teja@gmail.com",
+      "password": "Teja@321",
+      "accno": 75470655423,
+      "phone": 7673931319,
+      "AadharNo": "145785875452",
+      "transaction": [],
+      "address": {
+        "doorNo": "5-526",
+        "street": "Koti",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": 766298
+      },
+      "balance": 5000,
+      "currentBalance": 6000,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Pavani",
+      "email": "panni@gmail.com",
+      "password": "Panni@789",
+      "role": "User",
+      "accno": 34034017809,
+      "phone": 7673721867,
+      "AadharNo": "402179922947",
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-12T09:50:23.320Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-12T09:50:33.859Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-12T09:50:52.261Z",
+          "amount": "6000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-12T09:51:03.026Z",
+          "amount": "4000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-12T09:51:22.459Z",
+          "amount": "2000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-12T15:25:29.475Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T06:13:29.615Z",
+          "amount": "700"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T06:13:46.304Z",
+          "amount": "700"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-13T06:15:02.322Z",
+          "amount": "1400"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-13T06:15:15.873Z",
+          "amount": "400"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T09:08:09.906Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T09:08:22.313Z",
+          "amount": "100"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T13:25:14.376Z",
+          "amount": "100"
+        }
+      ],
+      "address": {
+        "doorNo": "3-7-129",
+        "street": "RudraNagar",
+        "city": "Chennai",
+        "state": "Tamilnadu",
+        "pincode": 766598
+      },
+      "balance": 8000,
+      "currentBalance": 2500,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Riyan",
+      "email": "riyan@gmail.com",
+      "password": "Riyan@125",
+      "role": "User",
+      "accno": 75470655662,
+      "phone": 8328438904,
+      "AadharNo": "146585887654",
+      "transaction": [],
+      "address": {
+        "doorNo": "3-5-329",
+        "street": "SivaNagar",
+        "city": "Warangal",
+        "state": "Madhya Pradesh",
+        "pincode": 546498
+      },
+      "balance": 7000,
+      "currentBalance": 8000,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Suleman",
+      "email": "sullu@gmail.com",
+      "password": "Sullu@564",
+      "role": "User",
+      "accno": 76757065542,
+      "phone": 7668577977,
+      "AadharNo": "145657857452",
+      "transaction": [],
+      "address": {
+        "doorNo": "4-768",
+        "street": "DilshukNagar",
+        "city": "BanjaraHills",
+        "state": "Bihar",
+        "pincode": 765798
+      },
+      "balance": 8000,
+      "currentBalance": 9000,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Arifa",
+      "email": "arifa@gmail.com",
+      "password": "Arifa@986",
+      "role": "Admin",
+      "accno": 76789095426,
+      "phone": 6576876879,
+      "AadharNo": "453525875452",
+      "transaction": [],
+      "address": {
+        "doorNo": "6-688",
+        "street": "AmitNagar",
+        "city": "Vijayawada",
+        "state": "Coastal Andhra",
+        "pincode": 456355
+      },
+      "balance": 5500,
+      "currentBalance": 6500,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Saleem",
+      "email": "saleem@gmail.com",
+      "password": "Saleem@128",
+      "role": "Admin",
+      "accno": 56467065592,
+      "phone": 9701234563,
+      "AadharNo": "145785678943",
+      "transaction": [],
+      "address": {
+        "doorNo": "7-8-98",
+        "street": "BalajiNagar",
+        "city": "Tirupati",
+        "state": "Andhra Pradesh",
+        "pincode": 658787
+      },
+      "balance": 3500,
+      "currentBalance": 8500,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Riya",
+      "email": "riya@gmail.com",
+      "password": "Riya@341",
+      "role": "Admin",
+      "accno": 75576545542,
+      "phone": 7981522564,
+      "AadharNo": "356485875452",
+      "transaction": [],
+      "address": {
+        "doorNo": "8-4-89",
+        "street": "MarutiNagar",
+        "city": "Barista",
+        "state": "Mumbai",
+        "pincode": 766298
+      },
+      "balance": 5000,
+      "currentBalance": 6000,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ameen",
+      "email": "ameen@gmail.com",
+      "password": "Ameen@265",
+      "role": "User",
+      "accno": 75445565842,
+      "phone": 7673756577,
+      "AadharNo": "145785678942",
+      "transaction": [],
+      "address": {
+        "doorNo": "7-10-869",
+        "street": "SrinidhiNagar",
+        "city": "Ambica Circle",
+        "state": "Rajasthan",
+        "pincode": 778968
+      },
+      "balance": 2500,
+      "currentBalance": 7000,
+      "AccountType": {
+        "cType": "current",
+        "sType": "savings"
+      }
+    },
+    {
+      "name": "Piyush",
+      "accno": "735242465971",
+      "email": "piyush@gmail.com",
+      "password": "Piyush@123",
+      "phone": "8767732109",
+      "AadharNo": "142556567676",
+      "role": "User",
+      "balance": "7000",
+      "currentBalance": 10000,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-12T11:25:29.752Z",
+          "amount": "7000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-12T11:25:44.978Z",
+          "amount": "7000"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "Aveekshith",
+      "accno": "735242465971",
+      "email": "avee@gmail.com",
+      "phone": "7777774647",
+      "AadharNo": "753196472475",
+      "balance": 4700,
+      "currentBalance": 6700,
+      "password": "Avee@789",
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T06:25:05.094Z",
+          "amount": "7000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T06:25:39.956Z",
+          "amount": "300"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-13T06:25:58.888Z",
+          "amount": "5000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-13T06:26:04.602Z",
+          "amount": "200"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-13T06:27:45.318Z",
+          "amount": "300"
+        }
+      ],
+      "role": "User",
+      "id": 12
+    },
+    {
+      "name": "Arya",
+      "accno": "47328956974",
+      "email": "arya@gmail.com",
+      "password": "Arya@123",
+      "phone": "7348956497",
+      "AadharNo": "248956935625",
+      "role": "Admin",
+      "balance": 0,
+      "currentBalance": 0,
+      "transaction": [],
+      "id": 13
+    },
+    {
+      "name": "Ammu",
+      "accno": "735242465971",
+      "email": "ammu@gmail.com",
+      "password": "Ammu@123",
+      "phone": "7348956497",
+      "AadharNo": "1378467845276",
+      "role": "User",
+      "balance": 0,
+      "currentBalance": 1000,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T09:11:04.411Z",
+          "amount": "1000"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "Alekhya",
+      "accno": "284952379965",
+      "email": "alekhya@gmail.com",
+      "password": "Alekhya@123",
+      "phone": "89463575764",
+      "AadharNo": "24896343547657",
+      "role": "User",
+      "balance": 0,
+      "currentBalance": 700,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T10:42:19.662Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T10:42:32.357Z",
+          "amount": "300"
+        }
+      ],
+      "id": 15
+    }
+  ]
+}
